@@ -7,7 +7,7 @@ CocoaPods
 
 ```
 use_frameworks!
-pod 'OfferistaBrochureWidget', '5.0.0'
+pod 'OfferistaBrochureWidget', '6.0.0'
 ```
 
 Add the below configuration to your Podfile-
